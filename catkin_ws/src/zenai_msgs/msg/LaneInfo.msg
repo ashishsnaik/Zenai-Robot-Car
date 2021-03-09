@@ -1,0 +1,1 @@
+float64 radius_of_curvature
