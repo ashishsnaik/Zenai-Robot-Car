@@ -3,10 +3,10 @@
 **A self-driving robot car built from scratch**
 
 [//]: # (Image References)
-[image0]: ./images/zenai.png "Zenai Robot Car"
-[image1]: ./images/zenai_making.png "Zenai HW"
-[image2]: ./images/track.jpg "Camera Image"
-[image3]: ./images/track_undist.jpg "Camera Image Undistorted"
+[image0]: ./catkin_ws/images/zenai.png "Zenai Robot Car"
+[image1]: ./catkin_ws/images/zenai_making.png "Zenai HW"
+[image2]: ./catkin_ws/images/track.jpg "Camera Image"
+[image3]: ./catkin_ws/images/track_undist.jpg "Camera Image Undistorted"
 
 ![][image0]
 ## Project
